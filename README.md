@@ -4,16 +4,16 @@ Team 93
 # Ürün İle İlgili Bilgiler
 
 ## Takım Üyeleri
-Rumeysa Köse: Product Owner
+--------------: Product Owner
 Rumeysa Köse: Scrum Master
-Özdennur Özcan: Development Team Member
 Hüseyin Ayhan Özkan: Development Team Member
+--------------: Development Team Member
 
 ## Ürün İsmi
 --Growth 93--
 
 ## Ürün Açıklaması
-Growth 93 uygulamamız ile insanların birlikte eğlenmesini sağlayacak bir platform geliştireceğiz. Kullanıcılarımız, her gün belirlenilen temalarda fotoğraflar çekip uygulamaya yükleyerek en çok puanı kazanmaya çalışacaklar. Leaderboard'da en çok puanı alan kullanıcımız, sponsorlu olduğumuz veya günün temasını belirleyen firma ya da kullanıcı tarafından ödüllendirilecek.
+Growth 93 uygulamamız ile insanların vücut kitle indekslerini hesaplayacakları bir platform geliştirdik. Kullanıcılarımız, yaş, cinsiyet, kilo ve boy bilgilerini girerek vücut kitle indekslerini hesaplıyorlar. Daha sonra sonuca göre kendilerine bir yol çiziyorlar. Ayrıca yakınları ile sonuçları paylaşarak birbirlerini motive edebiliyorlar.
 
 
 ## Ürün Özellikleri
