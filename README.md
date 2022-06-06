@@ -5,8 +5,11 @@ Team 93
 
 ## Takım Üyeleri
 --------------: Product Owner
+
 Rumeysa Köse: Scrum Master
+
 Hüseyin Ayhan Özkan: Development Team Member
+
 --------------: Development Team Member
 
 ## Ürün İsmi
