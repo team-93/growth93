@@ -78,7 +78,7 @@ Tasklarımızı, software ve design olarak ikiye ayırdık. Çeşitli ekranlar i
 
 ## Daily Scrum
 Daily Scrum toplantımızı Slack üzerinden yürüttük. İlgili ekran görüntülerini aşağıda görebilirsiniz.
-![Sprint görüşmemize dair ekran görüntüsü]((https://drive.google.com/file/d/17Jd-BULIfh_AEaGUtq_J462WKRlUdLuf/view?usp=sharing))
+![Sprint görüşmemize dair ekran görüntüsü](https://drive.google.com/file/d/17Jd-BULIfh_AEaGUtq_J462WKRlUdLuf/view?usp=sharing "Sprint görüşmemize dair ekran görüntüsü")
 
 ## Sprint board update:
 
