@@ -20,17 +20,16 @@ Growth 93 uygulamamız ile insanların vücut kitle indekslerini hesaplayacaklar
 
 
 ## Ürün Özellikleri
-- Fotoğraf çekebilme
-- Kullanıcı girişi sağlama
-- Diğer kullanıcıların fotoğraflarını görüntüleyebilme
-- Diğer kullanıcıların fotoğraflarını puanlayabilme
-- O gün çekilen fotoğraflar içerisinde sıralama yapabilme
-- Sıralamayı leaderboard şeklinde herkese gösterebilme
+- Açılış Ekranı
+- Yaş bilgisi girme
+- Kilo ve boy bilgisi girme
+- Cinsiyet tercihi yapabilme
+- Sonuç Ekranı
+- Uygulamayı arkadaşları ile paylaşabilme
 
 ## Hedef Kitle
-- Fotoğraf çekmeyi sevenler
-- Sevdikleriyle etkileşim içine girmek isteyenler
-- Eğlenerek kazanmak isteyenler
+- Sağlığına önem verenler
+- Beslenme veya egzersiz alışkanlıklarını değişirtirmek isteyenler
 
 ## Product Backlog URL
 [Miro Backlog Board](https://miro.com/welcomeonboard/eEtGMFpJdEVaYzZBellqMkdDYVlWbExva25BVTdDN1RDTGRuaEplVmkzcDNOWWVFTU9jcnIyakZrQzhrd21lOHwzNDU4NzY0NTE2NTI3OTg0ODg1?share_link_id=217592771496)
