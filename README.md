@@ -53,11 +53,11 @@ Daily Scrum toplantıları, uygun vakit aralığı yakalanamadığı için Whats
 
 ## Sprint board update:
 
-## Ürün Durumu: 
+## Ürün Durumu: Şu anda bir gelişme bulunmamaktadır.
 
 ## Sprint Review:
-- Alınan kararlar:
-- Sprint Review katılımcıları: 
+- Alınan kararlar: Sadece çalışmaya istekli arkadaşlarla projeye devam edilecektir. İlgisi olmayan, projeye katkı sağlamayan arkadaşlar, projeden çıkarılcaktır.
+- Sprint Review katılımcıları: Hüseyin Ayhan Özkan, Rumeysa Köse
 
 ## Sprint Retrospective:
 - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
@@ -66,17 +66,19 @@ Daily Scrum toplantıları, uygun vakit aralığı yakalanamadığı için Whats
 
 # Sprint 3
 ## Sprint Notları
-Yaptığımız sprint sonrası boardda güncellemeye gittik. Proje hede
+Yaptığımız sprint sonrası boardda güncellemeye gittik. Proje hedeflediğimizden daha kapsamlı olacaktı ancak çalışma arkadaşlarımızın ayrılması sebebiyle projede değişikliğe karar verdik. Bu sebeple en son geliştirdiğimiz uygulamada fotoğraf yükleme yerine vücut kitle indeksi hesaplama uygulaması geliştirdik.
 
-## Sprint içinde tamamlanması tahmin edilen puan: 150 Puan
+## Sprint içinde tamamlanması tahmin edilen puan: 180 Puan
 
 ## Puan Tamamlama Mantığı
-Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 150 ile başlaması gerektiğine karar verildi.
-
-## Backlog düzeni ve Story seçimleri: 
+Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. İlk sprintte istediğimiz puanı elde edemedik ancak projenin tamamlanması için hedeflediğimiz tasklar için otuzar puan belirlediğimizde bu sprint için 180 puanı tamamlamış olacağız.
+ 
+## Backlog düzeni ve Story seçimleri:
+Tasklarımızı, software ve design olarak ikiye ayırdık. Çeşitli ekranlar için farklı tasklar belirledik. İki kişi olduğumuz için sadece task ekledik ve user story eklemesi yapamadık.
 
 ## Daily Scrum
-Daily Scrum toplantıları, uygun vakit aralığı yakalanamadığı için Whatsapp grubu üzerinden yürütülmektedir. İlgili ekran görüntüleri eklenecektir.
+Daily Scrum toplantımızı Slack üzerinden yürüttük. İlgili ekran görüntülerini aşağıda görebilirsiniz.
+![Sprint görüşmemize dair ekran görüntüsü]((http://url/to/img.png))
 
 ## Sprint board update:
 
