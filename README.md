@@ -52,6 +52,8 @@ Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır
 Daily Scrum toplantıları, uygun vakit aralığı yakalanamadığı için Whatsapp grubu üzerinden yürütülmektedir. İlgili ekran görüntüleri eklenecektir.
 
 ## Sprint board update:
+![pbacklog](https://user-images.githubusercontent.com/54354672/172452753-63030ec5-5827-49a0-b3d7-670ff156c50c.jpg)
+
 
 ## Ürün Durumu: Şu anda bir gelişme bulunmamaktadır.
 
@@ -62,7 +64,7 @@ Daily Scrum toplantıları, uygun vakit aralığı yakalanamadığı için Whats
 ## Sprint Retrospective:
 - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
 - Product Backlog'daki puanlamalar üzerine tekrar çalışma yürütülmesi kararı alınmıştır.
-- Unit test'ler için ayrıca çalışmalar başlatılması kararı alınmıştır.
+- Projedeki taskların tamamlanması için birlikte çalışma yapılması gerektiği kabul görmüştür.
 
 # Sprint 3
 ## Sprint Notları
@@ -78,21 +80,24 @@ Tasklarımızı, software ve design olarak ikiye ayırdık. Çeşitli ekranlar i
 
 ## Daily Scrum
 Daily Scrum toplantımızı Slack üzerinden yürüttük. İlgili ekran görüntülerini aşağıda görebilirsiniz.
-![Sprint görüşmemize dair ekran görüntüsü](https://drive.google.com/file/d/17Jd-BULIfh_AEaGUtq_J462WKRlUdLuf/view?usp=sharing "Sprint görüşmemize dair ekran görüntüsü")
-<div align="center">
-    <img src="(https://drive.google.com/file/d/17Jd-BULIfh_AEaGUtq_J462WKRlUdLuf/view?usp=sharing)" width="400px"</img> 
-</div>
+![Sprint görüşmemize dair ekran görüntüsü](https://user-images.githubusercontent.com/54354672/172452068-9a5b7614-b4eb-48f2-a6b6-470ec2a59c6a.jpg)
 
 ## Sprint board update:
+![sprint3](https://user-images.githubusercontent.com/54354672/172454878-8c340d86-6ab4-47fa-9ad4-139c302381c7.jpg)
+
+## Ürün Durumu:
+<img src="https://user-images.githubusercontent.com/54354672/172455156-8fd2f4f4-1f59-417b-b9d9-9aa691d7d10f.jpg" width="216" height="448" title="Ana Ekran" align="left">
+<img src="https://user-images.githubusercontent.com/54354672/172455157-24033ef3-d4c7-4964-b3a4-7c11dd44f88c.jpg" width="216" height="448" title="İdeal Kilo Altında" align="left">
+<img src="https://user-images.githubusercontent.com/54354672/172455146-9cf2f1e7-1a02-4832-8194-37cdc7c6e6d0.jpg" width="216" height="448" title="İdeal Kilo" align="left">
+<img src="https://user-images.githubusercontent.com/54354672/172455153-e5cd0e54-9bf9-4090-b3e9-c6d4fede1eac.jpg" width="216" height="448" title="İdeal Kilo Üstü" align="left">
 
 
-## Ürün Durumu: 
 
 ## Sprint Review:
 - Alınan kararlar:
 - Sprint Review katılımcıları: 
-![Sprint görüşmemize dair ekran görüntüsü]((http://url/to/img.png))
+![dc](https://user-images.githubusercontent.com/54354672/172452297-a26d5464-8aed-48c0-abbe-cd141043b915.jpg))
 ## Sprint Retrospective:
-- Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
-- Product Backlog'daki puanlamalar üzerine tekrar çalışma yürütülmesi kararı alınmıştır.
-- Unit test'ler için ayrıca çalışmalar başlatılması kararı alınmıştır.
+- Bir dahaki çalışmalarda çok daha hızlı bir şekilde iletişim kurulması kararlaştırıldı.
+- Birlikte çalışmak için Discord ortamının daha uygun olduğuna karar verildi.
+- Unit testlerin eksik kalmaması adına task planlamasının çok daha dikkatli ayarlanması kararlaştırıldı.
