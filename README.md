@@ -89,14 +89,15 @@ Daily Scrum toplantımızı Slack üzerinden yürüttük. İlgili ekran görünt
 <img src="https://user-images.githubusercontent.com/54354672/172455156-8fd2f4f4-1f59-417b-b9d9-9aa691d7d10f.jpg" width="216" height="448" title="Ana Ekran" align="left">
 <img src="https://user-images.githubusercontent.com/54354672/172455157-24033ef3-d4c7-4964-b3a4-7c11dd44f88c.jpg" width="216" height="448" title="İdeal Kilo Altında" align="left">
 <img src="https://user-images.githubusercontent.com/54354672/172455146-9cf2f1e7-1a02-4832-8194-37cdc7c6e6d0.jpg" width="216" height="448" title="İdeal Kilo" align="left">
-<img src="https://user-images.githubusercontent.com/54354672/172455153-e5cd0e54-9bf9-4090-b3e9-c6d4fede1eac.jpg" width="216" height="448" title="İdeal Kilo Üstü" align="left">
-
+<img src="https://user-images.githubusercontent.com/54354672/172455153-e5cd0e54-9bf9-4090-b3e9-c6d4fede1eac.jpg" width="216" height="448" title="İdeal Kilo Üstü">
 
 
 ## Sprint Review:
-- Alınan kararlar:
-- Sprint Review katılımcıları: 
-![dc](https://user-images.githubusercontent.com/54354672/172452297-a26d5464-8aed-48c0-abbe-cd141043b915.jpg))
+- Alınan kararlar: İletişim eksikliğinin önüne geçmek adına her gün hatırlatma yapılması, proje bitse de geri dönüşler için iletişim halinde kalınması kararlaştırıldı.
+- Sprint Review katılımcıları:
+<img src="https://user-images.githubusercontent.com/54354672/172452297-a26d5464-8aed-48c0-abbe-cd141043b915.jpg" title="Discord Çalışması" align="left"> 
+
+
 ## Sprint Retrospective:
 - Bir dahaki çalışmalarda çok daha hızlı bir şekilde iletişim kurulması kararlaştırıldı.
 - Birlikte çalışmak için Discord ortamının daha uygun olduğuna karar verildi.
