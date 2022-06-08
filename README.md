@@ -13,10 +13,10 @@ Hüseyin Ayhan Özkan: Development Team Member
 --------------: Development Team Member
 
 ## Ürün İsmi
---Growth 93--
+--VKİ Hesaplama--
 
 ## Ürün Açıklaması
-Growth 93 uygulamamız ile insanların vücut kitle indekslerini hesaplayacakları bir platform geliştirdik. Kullanıcılarımız, yaş, cinsiyet, kilo ve boy bilgilerini girerek vücut kitle indekslerini hesaplıyorlar. Daha sonra sonuca göre kendilerine bir yol çiziyorlar. Ayrıca yakınları ile sonuçları paylaşarak birbirlerini motive edebiliyorlar.
+VKİ Hesaplama uygulamamız ile insanların vücut kitle indekslerini hesaplayacakları bir platform geliştirdik. Kullanıcılarımız, yaş, cinsiyet, kilo ve boy bilgilerini girerek vücut kitle indekslerini hesaplıyorlar. Daha sonra sonuca göre kendilerine bir yol çiziyorlar. Ayrıca yakınları ile sonuçları paylaşarak birbirlerini motive edebiliyorlar.
 
 
 ## Ürün Özellikleri
